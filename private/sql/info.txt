@@ -1,0 +1,6 @@
+Le répertoire sql stock les backup de structure de base de données. (information qui concerne la bd)
+
+Nom des fichiers :
+201902191207.sql
+201902191208.sql
+
